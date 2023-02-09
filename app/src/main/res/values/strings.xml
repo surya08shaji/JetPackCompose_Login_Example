@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComposeLogin</string>
+    <string name="sign_in_welcome_txt">Hi, Welcome!!</string>
+    <string name="sign_in_txt">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+</resources>
